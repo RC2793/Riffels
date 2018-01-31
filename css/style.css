@@ -47,12 +47,19 @@ body { margin-top: 105px; }
 }
 
 .btn {
+ 
     border-radius: 0;
-}
-.btn-primary {
-    background: #f57a00;
+    border: 0;
 }
 
-.btn-primary:hover {
+.btn-primary{
     background: #d86c00;
+    border: 0;
 }
+
+.btn-primary:hover,
+.btn-primary:visited {
+    background: #d86c00;
+    border: 0;
+}
+
