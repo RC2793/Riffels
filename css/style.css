@@ -1,4 +1,5 @@
 $primary-color: #f57a00;
+*:focus {outline: none;}
 
 body { margin-top: 105px; }
 
