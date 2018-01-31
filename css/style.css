@@ -42,3 +42,17 @@ body { margin-top: 105px; }
 }
 
 
+.form-control {
+    border-radius: 0;
+}
+
+.btn {
+    border-radius: 0;
+}
+.btn-primary {
+    background: #f57a00;
+}
+
+.btn-primary:hover {
+    background: #d86c00;
+}
