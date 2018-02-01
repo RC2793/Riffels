@@ -23,9 +23,6 @@ body {
     width: 100%;
     height: 100%; }
 
-.book-img {
-  margin-down: 200rem; }
-
 .info-header {
   width: 50%;
   margin: auto;
@@ -42,3 +39,6 @@ body {
   color: #fff; }
   #authors .card:hover .fa {
     color: #fff; }
+
+.fa-heart {
+  color: #d00000; }
